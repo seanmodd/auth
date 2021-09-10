@@ -3,12 +3,12 @@ import "firebase/auth";
 
 // Your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: "AIzaSyCNrhkTc2lknYhSQab6jDwUSkSL6ISC6KM",
-  authDomain: "booking-2b8d8.firebaseapp.com",
-  projectId: "booking-2b8d8",
-  storageBucket: "booking-2b8d8.appspot.com",
-  messagingSenderId: "577894737159",
-  appId: "1:577894737159:web:67867938891798573e11a2",
+  apiKey: 'AIzaSyDY0SagVtpBg2o-4j5j9CvDd_9KG2r0bmc',
+  authDomain: 'dhungalseanmodd.firebaseapp.com',
+  projectId: 'dhungalseanmodd',
+  storageBucket: 'dhungalseanmodd.appspot.com',
+  messagingSenderId: '643008978274',
+  appId: '1:643008978274:web:90a1ce935c9c6f3d76203b',
 };
 // Initialize Firebase
 if (!firebase.apps.length) {
